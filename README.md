@@ -20,7 +20,6 @@ Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UF
   <img src="/UFO-level-1_Challenge/static/images/britiansufo.png">
 </p>
 -----------------------------------------------------------------
-
 <p align="center">
   <img src="/UFO-level-1_Challenge/static/images/purportedufo.jpg">
 </p>
