@@ -15,12 +15,13 @@ Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UF
 
 ![Aliens](/UFO-level-1_Challenge/static/images/aliens.svg)
 ----------------------------------------------------------------------------------------------------------------------------------
-### Britians Most Famous UFO Sighting
+### * Britians Most Famous UFO Sighting
 <p align="center">
   <img src="/UFO-level-1_Challenge/static/images/britiansufo.png">
 </p>
 ----------------------------------------------------------------------------------------------------------------------------------
-### Photograph of a purported UFO in Passaic, New Jersey, taken on July 31, 1952.
+
+### * Photograph of a purported UFO in Passaic, New Jersey, taken on July 31, 1952.
 <p align="center">
   <img src="/UFO-level-1_Challenge/static/images/purportedufo.jpg">
 </p>
