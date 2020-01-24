@@ -11,3 +11,4 @@ JavaScript_Challenge involving UFO sightings
 
 * Use a date form in the HTML document and JavaScript code that will listen for events and the search through the `date/time` column to find rows that match user input request.
 
+![Aliens](/UFO-level-1_Challenge/static/images/aliens.svg)
