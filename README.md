@@ -14,12 +14,12 @@ Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UF
 * Use a date form in the HTML document and JavaScript code that will listen for events and the search through the `date/time` column to find rows that match user input request.
 
 ![Aliens](/UFO-level-1_Challenge/static/images/aliens.svg)
------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 ### Britians Most Famous UFO Sighting
 <p align="center">
   <img src="/UFO-level-1_Challenge/static/images/britiansufo.png">
 </p>
------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="/UFO-level-1_Challenge/static/images/purportedufo.jpg">
 </p>
