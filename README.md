@@ -3,7 +3,9 @@ JavaScript_Challenge involving UFO sightings
 
 Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UFO-level-1_Challenge/index.html
 
-![UFO](/UFO-level-1_Challenge/static/images/purportedufo.jpg)
+<p align="center">
+  <img src="/UFO-level-1_Challenge/static/images/purportedufo.jpg">
+</p>
 
 ### Level 1 Challenge: Automatic Table and Date Search 
 
@@ -17,4 +19,7 @@ Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UF
 
 ![Aliens](/UFO-level-1_Challenge/static/images/aliens.svg)
 -----------------------------------------------------------------
-![Aliens](/UFO-level-1_Challenge/static/images/britiansufo.png)
+### Britians Most Famous UFO Sighting
+<p align="center">
+  <img src="/UFO-level-1_Challenge/static/images/britiansufo.png">
+</p>
