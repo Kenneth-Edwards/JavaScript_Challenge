@@ -1,6 +1,8 @@
 # JavaScript_Challenge
 JavaScript_Challenge involving UFO sightings
 
+![UFO](/UFO-level-1_Challenge/static/images/purportedufo.jpg)
+
 ### Level 1 Challenge: Automatic Table and Date Search 
 
 * Create a basic HTML web page or use the one provided
