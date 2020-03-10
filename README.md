@@ -1,7 +1,7 @@
 # JavaScript_Challenge - Automatic Table and Date Search
 JavaScript_Challenge involving UFO sightings
 
-Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge/UFO-level-1_Challenge/index.html
+Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge-Automatic-Table-and-Date-Search/UFO-level-1_Challenge/index.html
 
 ### Level 1 Challenge: Automatic Table and Date Search 
 
