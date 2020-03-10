@@ -5,7 +5,7 @@ Webpage is visible at: https://kenneth-edwards.github.io/JavaScript_Challenge-Au
 
 ### Level 1 Challenge: Automatic Table and Date Search 
 
-* Create a basic HTML web page or use the one provided
+* Create a basic HTML web page
 
 * Using the UFO dataset provided in data.js in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
